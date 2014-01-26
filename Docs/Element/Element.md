@@ -952,7 +952,7 @@ Tests the Element to see if it has the passed in className.
 Element Method: addClass {#Element:addClass}
 --------------------------------------------
 
-Adds the passed in class to the Element, if the Element doesnt already have it.
+Adds the passed in class to the Element, if the Element doesn't already have it.
 
 ### Syntax:
 
@@ -960,7 +960,7 @@ Adds the passed in class to the Element, if the Element doesnt already have it.
 
 ### Arguments:
 
-1. className - (*string*) The class name to add.
+1. className - (*string*) The class name to add. Accepts multiple, space-separated, classes.
 
 ### Returns:
 
@@ -994,7 +994,7 @@ Works like [Element:addClass](#Element:addClass), but removes the class from the
 
 ### Arguments:
 
-1. className - (*string*) The class name to remove.
+1. className - (*string*) The class name to remove. Accepts multiple, space-separated, classes.
 
 ### Returns:
 
