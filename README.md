@@ -1,6 +1,17 @@
 # MooTools Core
 
-[![Build Status](https://travis-ci.org/mootools-edge/mootools-core.png?branch=master)](https://travis-ci.org/mootools-edge/mootools-core)
+<p align="right">
+  <a href="https://travis-ci.org/mootools-edge/mootools-core">
+    <img src="https://travis-ci.org/mootools-edge/mootools-core.svg?branch=master">
+  </a> 
+</p>
+<p align="right">
+  <a href="https://saucelabs.com/u/core-repo">
+    <img src="https://saucelabs.com/browser-matrix/core-repo.svg" alt="Selenium Tests Status" />
+  </a>  
+</p>
+
+---
 
 This repository is for MooTools developers; not users.
 All users should download MooTools from [MooTools.net](http://mootools.net/download "Download MooTools")
