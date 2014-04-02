@@ -34,8 +34,8 @@ env:
 #    - BROWSER='ie6'             BUILD='nocompat'
     
   global:
-    - SAUCE_USERNAME=mootoolsedge
-    - SAUCE_ACCESS_KEY=a8f8f1e8-08cf-4a4a-b9d6-75104dec599e
+    - SAUCE_USERNAME=core-repo
+    - secure: EQ6Tk0t82ZCqam1xEb7lgDozn8ppugi5iBHxuLwAcUdsLrtDXsrmIFJ2KVhxCaoNAmPOBe7ThbvzvxHJfXJoGdW4PPy+DddSRf+2PWM65+vFxkSnoxXV0OYJQJz6n61QuJuUJkw57NBsz/Fg+vOdiLjYOLDhYpwvrT2T8AwgHmY=
 
 before_script:
   - curl https://gist.github.com/santiycr/5139565/raw/sauce_connect_setup.sh | bash
